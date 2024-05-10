@@ -1,0 +1,27 @@
+[
+    {
+        "_id": 1,
+        "nombre": "Wolves FC",
+        "entrenador ": 2
+    },
+    {
+        "_id": 2,
+        "nombre": "Ingenieros FC",
+        "entrenador ": 3
+    },
+    {
+        "_id": 3,
+        "nombre": "Atletico Parceros FC",
+        "entrenador ": 5
+    },
+    {
+        "_id": 4,
+        "nombre": "Alianza Ibero FC",
+        "entrenador ": 1
+    },
+    {
+        "_id": 5,
+        "nombre": "Deportivo Mosquera",
+        "entrenador ": 4
+    }
+]

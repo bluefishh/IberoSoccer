@@ -1,0 +1,42 @@
+[
+    {
+        "_id": 1,
+        "encuentro": 1, 
+        "marcador": "2-0",
+        "equipo_ganador": 3,
+        "puntos_ganador": 3,
+        "puntos_perdedor": 0
+    },
+    {
+        "_id": 2,
+        "encuentro": 4,
+        "marcador": "0-0",
+        "equipo_ganador": null,
+        "puntos_ganador": 1,
+        "puntos_perdedor": 1
+    },
+    {
+        "_id": 3,
+        "encuentro": 3,
+        "marcador": "0-1",
+        "equipo_ganador": 2,
+        "puntos_ganador": 3,
+        "puntos_perdedor": 0
+    },
+    {
+        "_id": 4,
+        "encuentro": 5,
+        "marcador": "4-0",
+        "equipo_ganador": 1,
+        "puntos_ganador": 3,
+        "puntos_perdedor": 0
+    },
+    {
+        "_id": 5,
+        "encuentro": 2,
+        "marcador": "2-2",
+        "equipo_ganador": 2,
+        "puntos_ganador": 1,
+        "puntos_perdedor": 1
+    }
+]

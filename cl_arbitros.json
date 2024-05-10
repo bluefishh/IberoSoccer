@@ -1,0 +1,37 @@
+[
+    {
+        "_id": 1,
+        "nombre": "Hugo",
+        "apellido": "Casallas",
+        "edad ": 32,
+        "nacionalidad": "Colombiano"
+    },
+    {
+        "_id": 2,
+        "nombre": "Oscar",
+        "apellido": "Garcia",
+        "edad ": 44,
+        "nacionalidad": "Argentino"
+    },
+    {
+        "_id": 3,
+        "nombre": "Richard",
+        "apellido": "Martinez",
+        "edad ": 28,
+        "nacionalidad": "Ecuatoriano"
+    },
+    {
+        "_id": 4,
+        "nombre": "Carlos",
+        "apellido": "Aya",
+        "edad ": 33,
+        "nacionalidad": "Brasileño"
+    },
+    {
+        "_id": 5,
+        "nombre": "Sofia",
+        "apellido": "Yate",
+        "edad ": 47,
+        "nacionalidad": "Peruana"
+    }
+]

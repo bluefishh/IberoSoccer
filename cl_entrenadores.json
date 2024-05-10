@@ -1,0 +1,37 @@
+[
+    {
+        "_id": 1,
+        "nombre": "Luis",
+        "apellido": "Ramirez",
+        "nacionalidad": "Colombiano",
+        "equipo ": 3
+    },
+    {
+        "_id": 2,
+        "nombre": "Maria",
+        "apellido": "Campos",
+        "nacionalidad": "Mexicana",
+        "equipo ": 1
+    },
+    {
+        "_id": 3,
+        "nombre": "Roberto",
+        "apellido": "Villalobos",
+        "nacionalidad": "Venezolano",
+        "equipo ": 4
+    },
+    {
+        "_id": 4,
+        "nombre": "Alexander",
+        "apellido": "Benavidez",
+        "nacionalidad": "Colombiano",
+        "equipo ": 2
+    },
+    {
+        "_id": 5,
+        "nombre": "Paula",
+        "apellido": "Morales",
+        "nacionalidad": "Chilena",
+        "equipo ": 5
+    }
+]

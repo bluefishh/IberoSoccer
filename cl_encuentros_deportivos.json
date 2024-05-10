@@ -1,0 +1,42 @@
+[
+    {
+        "_id": 1,
+        "fecha": "2024-05-09T14:30:00.000Z",
+        "ubicacion": "Estadio El Campín",
+        "equipo1": 2,
+        "equipo2": 3,
+        "arbitro": 2
+    },
+    {
+        "_id": 2,
+        "fecha": "2024-09-14T16:30:00.000Z",
+        "ubicacion": "Estadio La Muñeca",
+        "equipo1": 1,
+        "equipo2": 5,
+        "arbitro": 1
+    },
+    {
+        "_id": 3,
+        "fecha": "2024-11-11T20:00:00.000Z",
+        "ubicacion": "Estadio de Santa Ana",
+        "equipo1": 4,
+        "equipo2": 2,
+        "arbitro": 3
+    },
+    {
+        "_id": 4,
+        "fecha": "2025-04-10T21:00:00.000Z",
+        "ubicacion": "Estadio Pelé",
+        "equipo1": 5,
+        "equipo2": 3,
+        "arbitro": 5
+    },
+    {
+        "_id": 5,
+        "fecha": "2024-12-31T15:30:00.000Z",
+        "ubicacion": "Estadio La Esperanza",
+        "equipo1": 1,
+        "equipo2": 2,
+        "arbitro": 4
+    }
+]

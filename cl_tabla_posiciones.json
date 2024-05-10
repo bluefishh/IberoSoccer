@@ -1,0 +1,42 @@
+[
+    {
+        "_id": 1,
+        "equipo": 1,
+        "posicion": 1,
+        "total_puntos": 4,
+        "goles_a_favor": 6,
+        "goles_en_contra": 2
+    },
+    {
+        "_id": 2,
+        "equipo": 2,
+        "posicion": 3,
+        "total_puntos": 3,
+        "goles_a_favor": 1,
+        "goles_en_contra": 6 
+    },
+    {
+        "_id": 3,
+        "equipo": 3,
+        "posicion": 2,
+        "total_puntos": 4,
+        "goles_a_favor": 2,
+        "goles_en_contra": 0
+    },
+    {
+        "_id": 4,
+        "equipo": 4,
+        "posicion": 5,
+        "total_puntos": 0,
+        "goles_a_favor": 0,
+        "goles_en_contra": 1
+    },
+    {
+        "_id": 5,
+        "equipo": 5,
+        "posicion": 4,
+        "total_puntos": 2,
+        "goles_a_favor": 2,
+        "goles_en_contra": 2
+    }
+]

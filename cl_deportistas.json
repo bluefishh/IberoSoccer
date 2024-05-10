@@ -1,0 +1,47 @@
+[
+    {
+        "_id": 1,
+        "nombre": "Juan",
+        "apellido": "Robles",
+        "identificación": 1414445544,
+        "edad": 24,
+        "posicion": "Delantero",
+        "equipo": 1
+    },
+    {
+        "_id": 2,
+        "nombre": "Carlos",
+        "apellido": "Rodriguez",
+        "identificación": 2545411121,
+        "edad": 26,
+        "posicion": "Mediocampista",
+        "equipo": 3
+    },
+    {
+        "_id": 3,
+        "nombre": "Ernesto",
+        "apellido": "Cardenas",
+        "identificación": 454545454,
+        "edad": 31,
+        "posicion": "Defensa",
+        "equipo": 2
+    },
+    {
+        "_id": 4,
+        "nombre": "Andres",
+        "apellido": "Sanchez",
+        "identificación": 1254942349,
+        "edad": 20,
+        "posicion": "Portero",
+        "equipo": 4
+    },
+    {
+        "_id": 5,
+        "nombre": "Ricardo",
+        "apellido": "Montero",
+        "identificación": 688451541,
+        "edad": 18,
+        "posicion": "Mediocampista",
+        "equipo": 5
+    }
+]
